@@ -1,3 +1,7 @@
+.idea/
+public/js/
+public/css/
+
 # Logs
 logs
 *.log
